@@ -1,12 +1,12 @@
-# Dr. Yogesh Deshmukh's Portfolio Website
+# Mr. Gunjal Abhishek Rajendra  Portfolio 
 
 ## Introduction
 
-Welcome to Dr. Yogesh Deshmukh's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
+Welcome to Mr. Gunjal Abhishek Rajendra's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
 
-## About Dr. Yogesh Deshmukh
+## About Mr. Gunjal Abhishek Rajendra
 
-Dr. Yogesh Deshmukh is a passionate and dedicated Teacher. 
+Mr. Gunjal Abhishek Rajendra is a passionate and dedicated Student. 
 
 ## Technologies Used
 
